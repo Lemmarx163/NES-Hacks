@@ -7,7 +7,7 @@ This is where I store the IPS files of the hacks that I have done over the last 
 
 This is a sprite hack of The Adventures of Lolo for the NES based on The Legend of Zelda.
 
-![Intro](/assets/images/electrocat.png)  
+![Intro](/Adventures%20Of%20Lolo/The%20Legend%20of%20Lala/Screenshots/The%20Legend%20of%20Lala_000.png)  
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)  
 
 ---
