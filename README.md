@@ -6,7 +6,7 @@ This is where I store the IPS files of the hacks that I have done over the last 
 **The Legend of Lala**
 
 This is a sprite hack of The Adventures of Lolo for the NES based on The Legend of Zelda.  
-![Intro](/assets/images/electrocat.png)  
+![Intro](Who Framed Roger Rabbit/WFRR Reframed/Screenshots/WFRR Reframed_000.png)  
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)  
 
 ---
