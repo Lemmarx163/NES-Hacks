@@ -29,6 +29,11 @@ ROM SHA-1: ADFE24B8CFB6411DDEA238058D027EC0458FA3C4
 ROM CRC32: 71BF075F  
 
 ---
+**Online Patcher**
+
+https://www.romhacking.net/patch/
+
+---
 **Utilities**
 
 Mesen 0.9.8  
